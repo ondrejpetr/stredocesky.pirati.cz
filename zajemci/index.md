@@ -3,7 +3,7 @@ layout: page
 title: Informace pro zájemce o členství
 ---
 
-# Vítáme Tě u Pirátů!
+# Vítáme tě u Pirátů!
 
 Naše fórum je otevřené pro kohokoliv a pokud se chceš podívat, jak spolu komunikujeme, co řešíme a jaké máme názory, nic Ti nebrání naše fórum a další informační systémy sledovat. S tykáním nejsme nezdvořilí, můžeš stejně tak oslovit kohokoliv na fóru, na formality si nehrajeme.
 
